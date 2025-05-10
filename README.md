@@ -12,7 +12,7 @@ This project is a simple yet functional **Login and Registration Page** system b
 
 - **Java (Servlet, JSP)**
 - **JDBC**
-- **MySQL**
+- **SQL**
 - **HTML5 & CSS3**
 - **Bootstrap (for styling)**
 
